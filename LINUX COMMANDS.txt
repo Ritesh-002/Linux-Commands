@@ -1,0 +1,52 @@
+LINUX COMMANDS
+
+pwd
+whoami
+date, date %D
+ls, ls -lt, ls -ltr, ls -lh
+clear
+
+CREATING AND DELETING FILES
+cat
+less
+more
+touch
+rm
+vi
+nano
+
+CREATING AND DELETING DIRECTORIES
+mkdir
+rmdir, rm -rf
+cd
+cp
+mv
+
+head
+tail
+sort (sort in reverse, uniq)
+split
+grep
+egrep
+wildcards in Linux = *, [], {}
+shuf
+wc
+cmp
+diff
+find, updatedb, locate
+
+utility commands:
+history
+help
+man
+which
+bc
+cal
+uptime
+script
+alias 
+
+zip and unzip
+gzip
+
+

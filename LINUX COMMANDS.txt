@@ -1,0 +1,93 @@
+LINUX COMMANDS
+
+pwd
+whoami
+date, date %D
+ls, ls -lt, ls -ltr, ls -lh
+clear
+
+CREATING AND DELETING FILES
+cat
+less
+more
+touch
+rm
+vi
+nano
+
+CREATING AND DELETING DIRECTORIES
+mkdir
+rmdir, rm -rf
+cd
+cp
+mv
+
+head
+tail
+sort (sort in reverse, uniq)
+split
+grep
+egrep
+wildcards in Linux = *, [], {}
+shuf
+wc
+cmp
+diff
+find, updatedb, locate
+
+utility commands:
+history
+help
+man
+which
+bc
+cal
+uptime
+script
+alias 
+
+zip and unzip:
+gzip (compress)
+gunzip
+tar (both for compress and decompress folders)
+zip (for multiple files)
+unzip (for multiple files)
+
+Downloading files from internet:
+wget (with given name or not)
+curl (calling an api)
+apt (installing package), (available packages)
+yum (installing package)
+rpm
+dnf
+systemctl (list all the services on Linux)
+
+
+
+-> Linux Commands for First Time - pwd, date, whoami, clear, ls
+-> Working with files
+-> How to read a file in Linux - less, cat, more
+-> Edit files in Linux - vi, nano
+-> Working with folders - mkdir, rm, cd
+-> Linux head & tail commands
+-> Grep, Egrep Command in Linux
+-> Comparing files in Linux - cmp and diff
+-> Search files in linux - find & locate command
+-> Linux Utility Commands - bc, cal
+-> Linux Alias
+-> Compress and Decompress files in linux
+-> Download files in Linux - wget & curl
+-> Linux Package Management - yum, rpm
+-> Linux Service Control - systemctl
+
+-> Environment Variables check and set - export, printenv
+-> String Operations Commands (awk, cut, sed, tr)
+-> Switch user and sudo
+-> Access Remote Linux Server (scp, ssh)
+-> Linux Files Permissions (chmod)
+-> Memory Info Commands
+-> System Info Commands
+-> Process Management Commands
+-> Networking Commands
+-> User Management Commands
+-> Automation Commands in Linux
